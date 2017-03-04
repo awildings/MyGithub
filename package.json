@@ -1,0 +1,25 @@
+{
+  "name": "mamasuka",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "jact": "^0.0.1",
+    "jast": "^0.2.1",
+    "jest": "^19.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/awildings/MyGithub.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/awildings/MyGithub/issues"
+  },
+  "homepage": "https://github.com/awildings/MyGithub#readme"
+}
